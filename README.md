@@ -159,3 +159,9 @@ Marker auf einer OpenStreetMap‑Karte.
 
 Zum Testen die App auf mindestens zwei physischen Geräten starten, Berechtigungen erteilen,
 Bluetooth + Standort aktivieren und eine Meldung über die Karte senden.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/528cbe89-6557-4465-8b8c-407a40e4964f" width="30%">
+  <img src="https://github.com/user-attachments/assets/4fd85cc1-b0a5-446d-ab24-63e2446a2754" width="30%">
+</p>
+
